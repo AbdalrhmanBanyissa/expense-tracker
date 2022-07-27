@@ -12,6 +12,6 @@ Abdalrhman Banyissa
 
 ## Links and Resources
 
-<a href="https://expense-tracker-e3a93.firebaseapp.com/"><img src="./src/assets/images/firebase.svg" width="100px" height="100px" alt='Firebase logo'></a>
+<a href="https://expense-tracker-e3a93.firebaseapp.com/" target="_blank"><img src="./src/assets/images/firebase.svg" width="100px" height="100px" alt='Firebase logo'></a>
 
 ## Reflections and Comments
