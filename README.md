@@ -4,7 +4,7 @@
 
 ## UI
 
-![](./src/assets/images/)
+<img src="./src/assets/images/ui-1.png" width="180px" height="200px" alt='Landing page'> <img src="./src/assets/images/ui.png" width="180px" height="200px" alt='Landing page - v1'>
 
 ## Author
 
